@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.inthealps.laurentf</groupId>
-    <artifactId>multiplication</artifactId>
+    <artifactId>math</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>multiplication</name>
+    <name>math</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
